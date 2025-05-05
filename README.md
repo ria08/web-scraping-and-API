@@ -6,9 +6,10 @@ A collection of three data scraping projects showcasing different scraping metho
 
 ## 📑 Table of Contents
 
-- [📦 Project 1: Flipkart UHD TVs Scraper](#project-1:-flipkart-uhd-tvs-scraper)
-- [📚 Project 2: Goodreads Dystopian Books Scraper](#project-2:-goodreads-dystopian-books-scraper)
-- [🐦 Project 3: Twitter API Scraper](#project-3:-twitter-api-scraper)
+- [📦 Project 1: Flipkart UHD TVs Scraper](#-project-1-flipkart-uhd-tvs-scraper)
+- [📚 Project 2: Goodreads Dystopian Books Scraper](#-project-2-goodreads-dystopian-books-scraper)
+- [🐦 Project 3: Twitter API Scraper](#-project-3-twitter-api-scraper)
+
 
 - ## 📦 Project 1: Flipkart UHD TVs Scraper
 
